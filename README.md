@@ -1,7 +1,7 @@
-# HirwiGo | Sistem Pendukung Keputusan Destinasi Wisata :computer:
-HirwiGo | Sistem Pendukung Keputusan Destinasi Wisata di Kawasan Bandung Raya <br>
-Menggunakan metode logika fuzzy tahani dalam pengambilan keputusan <br>
-Ditujukan untuk memenuhi tugas besar mata kuliah Logika Informatika
+# HirwiGo | Tourist Destination Decision Support System :computer:
+HirwiGo | Tourism Destination Decision Support System in the Greater Bandung Area <br>
+Using fuzzy logic tahani method in decision making <br>
+Intended to fulfill the big task of Informatics Logic course
 
 ## How to Use? :memo:
 ### Using phpMyAdmin
@@ -17,14 +17,14 @@ Ditujukan untuk memenuhi tugas besar mata kuliah Logika Informatika
 10. Open brwoser and go to http://localhost/spk-destinasi-wisata-main/
 
 ## Implemented Theory :bulb:
-- Logika Fuzzy Tahani
+- Fuzzy Logic Tahani
 
-## Parameter yang digunakan :information_source:
-- Jarak
-- Harga
-- Luas Parkiran
-- Fasilitas
-- Spot Foto
+## Parameters Used :information_source:
+- Distance
+- Price
+- Parking Area
+- Facility
+- Photo Spots
 
 ## Team :black_nib:
 - [Alif](https://www.instagram.com/frappuccinogaze/)
