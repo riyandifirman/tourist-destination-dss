@@ -1,5 +1,5 @@
-# Sistem Pendukung Keputusan Destinasi Wisata :computer:
-Sistem Pendukung Keputusan Destinasi Wisata di Kawasan Bandung Raya <br>
+# HirwiGo | Sistem Pendukung Keputusan Destinasi Wisata :computer:
+HirwiGo | Sistem Pendukung Keputusan Destinasi Wisata di Kawasan Bandung Raya <br>
 Menggunakan metode logika fuzzy tahani dalam pengambilan keputusan <br>
 Ditujukan untuk memenuhi tugas besar mata kuliah Logika Informatika
 
