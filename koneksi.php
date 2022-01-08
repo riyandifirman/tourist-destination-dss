@@ -1,3 +1,3 @@
 <?php
-	$db = mysqli_connect("localhost", "id18086686_timpetualang", "W3H<-htXrXcb[$?7", "id18086686_fuzzy");
+	$db = mysqli_connect("127.0.0.1", "root", "", "db_fuzzy_database_php");
 ?>
