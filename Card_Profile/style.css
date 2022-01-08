@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.bodyy {
+  display: flex;
+  min-height: 50vh;
+  align-items: center;
+  justify-content: center;
+  background-image: url("./bgg.png");
+  position: relative;
+}
+.bodyy::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  background-image: url("./");
+  clip-path: inset(47% 0 0 0);
+  z-index: -1;
+  height: 100%;
+}
+::selection {
+  background: #0275d8;
+  color: #fff;
+}
+.containerrr {
+  max-width: 950px;
+  width: 100%;
+  overflow: hidden;
+  padding: 80px 0;
+}
+.containerrr .main-card {
+  display: flex;
+  justify-content: space-evenly;
+  width: 200%;
+  transition: 1s;
+}
+#two:checked ~ .main-card {
+  margin-left: -100%;
+}
+.containerrr .main-card .cardsss {
+  width: calc(100% / 2 - 10px);
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 20px;
+  justify-content: space-around;
+}
+.main-card .cardsss .carddd {
+  width: calc(100% / 3 - 10px);
+  background: #fff;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+  transition: all 0.4s ease;
+}
+.main-card .cardsss .carddd:hover {
+  transform: translateY(-15px);
+}
+.cardsss .carddd .contenttt {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.cardsss .carddd .contenttt .img {
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  padding: 3px;
+  background: #0275d8;
+  margin-bottom: 14px;
+}
+.carddd .contenttt .img img {
+  height: 100%;
+  width: 100%;
+  border: 3px solid #ffff;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.carddd .contenttt .name {
+  font-size: 20px;
+  font-weight: 500;
+}
+.carddd .contenttt .job {
+  font-size: 20px;
+  color: #0275d8;
+}
+.carddd .contenttt .media-icons {
+  margin-top: 10px;
+  display: flex;
+}
+.media-icons a {
+  text-align: center;
+  line-height: 33px;
+  height: 35px;
+  width: 35px;
+  margin: 0 4px;
+  font-size: 14px;
+  color: #fff;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  background: #0275d8;
+  transition: all 0.3s ease;
+}
+.media-icons a:hover {
+  color: #0275d8;
+  background-color: #fff;
+  border-color: #0275d8;
+}
+.containerrr .button {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.button {
+  background-color: transparent;
+}
+
+.button:hover {
+  background-color: transparent;
+}
+
+.button label {
+  height: 15px;
+  width: 15px;
+  border-radius: 20px;
+  background: #fff;
+  margin: 0 4px;
+  cursor: pointer;
+  transition: all 0.5s ease;
+}
+.button label.active {
+  width: 35px;
+}
+#one:checked ~ .button .one {
+  width: 35px;
+}
+#one:checked ~ .button .two {
+  width: 15px;
+}
+#two:checked ~ .button .one {
+  width: 15px;
+}
+#two:checked ~ .button .two {
+  width: 35px;
+}
+input[type="radio"] {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .main-card .cardsss .carddd {
+    margin: 20px 0 10px 0;
+    width: calc(100% / 2 - 10px);
+    height: 320px;
+  }
+}
+@media (max-width: 668px) {
+  .main-card .cardsss .carddd {
+    margin: 20px 0 10px 0;
+    width: 100%;
+    height: 320px;
+  }
+}
