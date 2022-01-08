@@ -232,7 +232,7 @@
     <div class="row justify-content-md-center">
       <div class="col-lg-1 topic_1"></div>
       <div class="col-lg-5 topic_3">
-        <img src="assets/sea - Copy.jpg" class="img-fluid rounded-3 mb-3" alt="">
+        <img src="assets/sea.jpg" class="img-fluid rounded-3 mb-3" alt="">
       </div>
       <div class="col-lg-5 fuzzy_component topic_2">
         <span class="text-primary"><small>Topik Tim Petualang</small></span>
