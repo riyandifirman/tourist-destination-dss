@@ -368,10 +368,10 @@
           <div class="accordion-body">
             <div class="row">
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Fungsi Keanggotaan Jarak.png" class="img-fluid" alt="">
+                <img src="assets/Fungsi Keanggotaan Jarak.png" class="img-fluid" alt="">
               </div>
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Rumus Fungsi Keanggotaan Jarak.png" class="img-fluid" alt="">
+                <img src="assets/Rumus Fungsi Keanggotaan Jarak.png" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -387,10 +387,10 @@
           <div class="accordion-body">
             <div class="row">
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Fungsi Keanggotaan Harga.png" class="img-fluid" alt="">
+                <img src="assets/Fungsi Keanggotaan Harga.png" class="img-fluid" alt="">
               </div>
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Rumus Fungsi Keanggotaan Harga.png" class="img-fluid" alt="">
+                <img src="assets/Rumus Fungsi Keanggotaan Harga.png" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -406,10 +406,10 @@
           <div class="accordion-body">
             <div class="row">
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Fungsi Keanggotaan Fasilitas.png" class="img-fluid" alt="">
+                <img src="assets/Fungsi Keanggotaan Fasilitas.png" class="img-fluid" alt="">
               </div>
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Rumus Fungsi Keanggotaan Fasilitas.png" class="img-fluid" alt="">
+                <img src="assets/Rumus Fungsi Keanggotaan Fasilitas.png" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -425,10 +425,10 @@
           <div class="accordion-body">
             <div class="row">
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Fungsi Keanggotaan Parkiran.png" class="img-fluid" alt="">
+                <img src="assets/Fungsi Keanggotaan Parkiran.png" class="img-fluid" alt="">
               </div>
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Rumus Fungsi Keanggotaan Parkiran.png" class="img-fluid" alt="">
+                <img src="assets/Rumus Fungsi Keanggotaan Parkiran.png" class="img-fluid" alt="">
               </div>
             </div>
           </div>
@@ -444,10 +444,10 @@
           <div class="accordion-body">
             <div class="row">
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Fungsi Keanggotaan Spot Foto.png" class="img-fluid" alt="">
+                <img src="assets/Fungsi Keanggotaan Spot Foto.png" class="img-fluid" alt="">
               </div>
               <div class="col">
-                <img src="assets/RumusKeanggotaan/Rumus Fungsi Keanggotaan Spot Foto.png" class="img-fluid" alt="">
+                <img src="assets/Rumus Fungsi Keanggotaan Spot Foto.png" class="img-fluid" alt="">
               </div>
             </div>
           </div>
